@@ -1,4 +1,4 @@
-깃 허브 페이지 -> https://odyssey409.github.io/react-masterclass_nomflix-clone/
+깃 허브 페이지 (수정 중)> https://odyssey409.github.io/react-masterclass_nomflix-clone/
 
 # Getting Started with Create React App
 
